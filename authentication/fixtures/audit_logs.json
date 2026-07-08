@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.AuditLogs","pk":1,"fields":{"user":1,"action_type":"CREATE","entity_type":"USER","entity_id":"1","metadata":{"status":"success"},"created_at":"2026-07-01T10:00:00Z"}},
+  {"model":"authentication.AuditLogs","pk":2,"fields":{"user":2,"action_type":"UPDATE","entity_type":"USER","entity_id":"2","metadata":{"field":"email"},"created_at":"2026-07-01T09:00:00Z"}},
+  {"model":"authentication.AuditLogs","pk":3,"fields":{"user":3,"action_type":"DELETE","entity_type":"ROLE","entity_id":"3","metadata":{"reason":"cleanup"},"created_at":"2026-07-01T08:00:00Z"}},
+  {"model":"authentication.AuditLogs","pk":4,"fields":{"user":4,"action_type":"LOGIN","entity_type":"SESSION","entity_id":"4","metadata":{"ip":"192.168.1.4"},"created_at":"2026-07-01T07:00:00Z"}},
+  {"model":"authentication.AuditLogs","pk":5,"fields":{"user":5,"action_type":"LOGOUT","entity_type":"SESSION","entity_id":"5","metadata":{"duration":"1h"},"created_at":"2026-07-01T06:00:00Z"}}
+]

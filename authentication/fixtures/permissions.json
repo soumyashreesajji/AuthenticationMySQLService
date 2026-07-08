@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.Permission","pk":1,"fields":{"permission_code":"USER_CREATE","permission_name":"Create User","module_name":"User","description":"Can create users"}},
+  {"model":"authentication.Permission","pk":2,"fields":{"permission_code":"USER_VIEW","permission_name":"View User","module_name":"User","description":"Can view users"}},
+  {"model":"authentication.Permission","pk":3,"fields":{"permission_code":"USER_EDIT","permission_name":"Edit User","module_name":"User","description":"Can edit users"}},
+  {"model":"authentication.Permission","pk":4,"fields":{"permission_code":"ROLE_MANAGE","permission_name":"Manage Roles","module_name":"Role","description":"Can manage roles"}},
+  {"model":"authentication.Permission","pk":5,"fields":{"permission_code":"AUDIT_VIEW","permission_name":"View Audit","module_name":"Audit","description":"Can view audit logs"}}
+]

@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.EmailVerificationToken","pk":1,"fields":{"user":1,"token":"EMAILTOKEN001","expires_at":"2026-07-05T10:00:00Z","is_used":true,"created_at":"2026-07-01T10:00:00Z"}},
+  {"model":"authentication.EmailVerificationToken","pk":2,"fields":{"user":2,"token":"EMAILTOKEN002","expires_at":"2026-07-05T10:00:00Z","is_used":false,"created_at":"2026-07-01T09:00:00Z"}},
+  {"model":"authentication.EmailVerificationToken","pk":3,"fields":{"user":3,"token":"EMAILTOKEN003","expires_at":"2026-07-05T10:00:00Z","is_used":false,"created_at":"2026-07-01T08:00:00Z"}},
+  {"model":"authentication.EmailVerificationToken","pk":4,"fields":{"user":4,"token":"EMAILTOKEN004","expires_at":"2026-07-05T10:00:00Z","is_used":true,"created_at":"2026-07-01T07:00:00Z"}},
+  {"model":"authentication.EmailVerificationToken","pk":5,"fields":{"user":5,"token":"EMAILTOKEN005","expires_at":"2026-07-05T10:00:00Z","is_used":false,"created_at":"2026-07-01T06:00:00Z"}}
+]

@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.UserRole","pk":1,"fields":{"user":1,"role":1,"assigned_by":1,"assigned_at":"2026-06-01T10:00:00Z","is_active":true}},
+  {"model":"authentication.UserRole","pk":2,"fields":{"user":2,"role":2,"assigned_by":1,"assigned_at":"2026-06-02T10:00:00Z","is_active":true}},
+  {"model":"authentication.UserRole","pk":3,"fields":{"user":3,"role":3,"assigned_by":1,"assigned_at":"2026-06-03T10:00:00Z","is_active":true}},
+  {"model":"authentication.UserRole","pk":4,"fields":{"user":4,"role":4,"assigned_by":1,"assigned_at":"2026-06-04T10:00:00Z","is_active":true}},
+  {"model":"authentication.UserRoleotp","pk":5,"fields":{"user":5,"role":5,"assigned_by":1,"assigned_at":"2026-06-05T10:00:00Z","is_active":true}}
+]

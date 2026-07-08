@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.UserSessions","pk":1,"fields":{"user":1,"session_identifier":"SESSION001","device_info":"Chrome","ip_address":"192.168.1.1","login_time":"2026-07-01T10:00:00Z","logout_time":null,"is_active":true}},
+  {"model":"authentication.UserSessions","pk":2,"fields":{"user":2,"session_identifier":"SESSION002","device_info":"Firefox","ip_address":"192.168.1.2","login_time":"2026-07-01T09:00:00Z","logout_time":null,"is_active":true}},
+  {"model":"authentication.UserSessions","pk":3,"fields":{"user":3,"session_identifier":"SESSION003","device_info":"Safari","ip_address":"192.168.1.3","login_time":"2026-07-01T08:00:00Z","logout_time":"2026-07-01T09:00:00Z","is_active":false}},
+  {"model":"authentication.UserSessions","pk":4,"fields":{"user":4,"session_identifier":"SESSION004","device_info":"Edge","ip_address":"192.168.1.4","login_time":"2026-07-01T07:00:00Z","logout_time":null,"is_active":true}},
+  {"model":"authentication.UserSessions","pk":5,"fields":{"user":5,"session_identifier":"SESSION005","device_info":"Android","ip_address":"192.168.1.5","login_time":"2026-07-01T06:00:00Z","logout_time":null,"is_active":true}}
+]

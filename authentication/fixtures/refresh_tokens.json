@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.RefreshToken","pk":1,"fields":{"user":1,"token_hash":"hash1","expires_at":"2026-08-01T10:00:00Z","revoked":false,"created_at":"2026-07-01T10:00:00Z"}},
+  {"model":"authentication.RefreshToken","pk":2,"fields":{"user":2,"token_hash":"hash2","expires_at":"2026-08-01T10:00:00Z","revoked":false,"created_at":"2026-07-01T09:00:00Z"}},
+  {"model":"authentication.RefreshToken","pk":3,"fields":{"user":3,"token_hash":"hash3","expires_at":"2026-08-01T10:00:00Z","revoked":true,"created_at":"2026-07-01T08:00:00Z"}},
+  {"model":"authentication.RefreshToken","pk":4,"fields":{"user":4,"token_hash":"hash4","expires_at":"2026-08-01T10:00:00Z","revoked":false,"created_at":"2026-07-01T07:00:00Z"}},
+  {"model":"authentication.RefreshToken","pk":5,"fields":{"user":5,"token_hash":"hash5","expires_at":"2026-08-01T10:00:00Z","revoked":false,"created_at":"2026-07-01T06:00:00Z"}}
+]

@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.RolePermission","pk":1,"fields":{"role":1,"permission":1}},
+  {"model":"authentication.RolePermission","pk":2,"fields":{"role":1,"permission":2}},
+  {"model":"authentication.RolePermission","pk":3,"fields":{"role":1,"permission":3}},
+  {"model":"authentication.RolePermission","pk":4,"fields":{"role":2,"permission":2}},
+  {"model":"authentication.RolePermission","pk":5,"fields":{"role":2,"permission":4}}
+]

@@ -1,0 +1,7 @@
+[
+  {"model":"authentication.OTPLoginSession","pk":1,"fields":{"user":1,"otp_request":1,"login_time":"2026-07-01T10:00:00Z","ip_address":"192.168.1.1","device_info":"Chrome Windows","session_identifier":"OTPSESSION001"}},
+  {"model":"authentication.OTPLoginSession","pk":2,"fields":{"user":2,"otp_request":2,"login_time":"2026-07-01T09:00:00Z","ip_address":"192.168.1.2","device_info":"Firefox Linux","session_identifier":"OTPSESSION002"}},
+  {"model":"authentication.OTPLoginSession","pk":3,"fields":{"user":3,"otp_request":3,"login_time":"2026-07-01T08:00:00Z","ip_address":"192.168.1.3","device_info":"Safari Mac","session_identifier":"OTPSESSION003"}},
+  {"model":"authentication.OTPLoginSession","pk":4,"fields":{"user":4,"otp_request":4,"login_time":"2026-07-01T07:00:00Z","ip_address":"192.168.1.4","device_info":"Edge Windows","session_identifier":"OTPSESSION004"}},
+  {"model":"authentication.OTPLoginSession","pk":5,"fields":{"user":5,"otp_request":5,"login_time":"2026-07-01T06:00:00Z","ip_address":"192.168.1.5","device_info":"Android","session_identifier":"OTPSESSION005"}}
+]
